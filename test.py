@@ -7,3 +7,4 @@ print("Hello world")
 # 跑完上述流程,建立新版本
 a = 1
 b = 2
+c = a+b
