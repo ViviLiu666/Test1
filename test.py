@@ -19,3 +19,5 @@ a = 3
 b = 1
 # 指定一些檔案永遠不要進到我的資料庫
 # 新增檔案 .gitignore 並將不想要的檔案名稱打進去, 確認狀態git status
+c = a+b
+print(c)
