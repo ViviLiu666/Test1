@@ -5,3 +5,5 @@ print("Hello world")
 # 打git commit -m "add test py" 要多人協作
 # Terminal的複製貼上不要用Ctrl+C/V,只需選取要的部分案右鍵,再按右鍵即可貼上
 # 跑完上述流程,建立新版本
+a = 1
+b = 2
