@@ -8,3 +8,7 @@ print("Hello world")
 a = 1
 b = 2
 c = a+b
+# 左邊的source control 裡的commit會顯示change的狀態,只需要按+就會自動修改存檔為新版本=modified
+# 再source control的輸入欄輸入要置換的版本名稱,然後按commit自動存檔=committed
+print(c)
+# 若要將以修改版本退回未修改版本,指令git restore --staged <file name不須外框>
